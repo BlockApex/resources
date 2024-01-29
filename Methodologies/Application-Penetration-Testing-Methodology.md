@@ -12,7 +12,7 @@ Blockchains are more popular versions of distributed systems since the advent of
    - Rollups & state channels
    - Arbitrary Relayers
    - DVTs
-- Blockchains (due to exposed & sensitive endpoints)
+- Blockchain Nodes (due to exposed & sensitive endpoints)
 - Cryptocurrency Wallets
 - Digital Custody Solutions
 - Web Apps
